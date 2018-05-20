@@ -34,5 +34,7 @@ platzom("sometemos") // SoMeTeMoS
 
 [MIT](https://opensource.org/licenses/MIT)
 Publicar
+git init
 git remote add origin git@...
+npm publish
 https://semver.org/
