@@ -33,3 +33,6 @@ platzom("sometemos") // SoMeTeMoS
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
+Publicar
+git remote add origin git@...
+https://semver.org/
